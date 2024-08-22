@@ -100,7 +100,7 @@ export const projects = [
     des: "Custom URL shortener built with Node.js and MongoDB for efficient URL management and generation.",
     img: "/urlShortnerImg.jpeg",
     iconLists: ["/mongoDb.png", "/expressjs.png", "/reactJs.webp", "/nodeJs.png"],
-    link: "/ui.apple.com",
+    link: "https://github.com/Abhinavkr24/Url_Shortner",
   },
 ];
 
